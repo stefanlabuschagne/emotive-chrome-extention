@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Emotive Hello World",
+  "version": "1.0.0",
+  "description": "A simple PyScript-powered Hello World popup.",
+  "action": {
+    "default_title": "Hello World",
+    "default_popup": "popup.html"
+  }
+}
